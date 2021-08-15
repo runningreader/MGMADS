@@ -1,4 +1,3 @@
-#批量处理图片resize
 import os
 import time
 import cv2
